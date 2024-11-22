@@ -217,18 +217,18 @@ h1#tabela.elementos{
 textarea{
     text-align: center;
 }
-
-body#body{
+/* feedback(imagem de fundo)*/
+body#body{ 
     background-image: url(../imagens/terra.jpg);
-}
 
+/*Voltar para o inicio*/
   #home img{
     width: 100px;
     height: 100px;
     border-radius: 5%;
     border: 5px solid white;
   }
-
+/* Barra de pesquisa*/
   .container-pesquisa {
     display: flex;
     justify-content: center;
