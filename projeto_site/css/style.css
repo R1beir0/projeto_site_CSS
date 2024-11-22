@@ -223,8 +223,8 @@ body#body{
 }
 /*Voltar para o inicio*/
   #home img{
-    width: 100px;
-    height: 100px;
+    width: 30px;
+    height: 30px;
     border-radius: 5%;
     border: 5px solid white;
   }
